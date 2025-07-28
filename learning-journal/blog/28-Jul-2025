@@ -1,1 +1,93 @@
+# Reclaiming Momentum: Launching My Learning Journal
 
+**Date:** 28 July 2025  
+**Author:** Cora
+
+---
+
+After several years navigating the early stages of my software engineering career — and life taking a few unexpected turns — I’ve felt an increasing need to reorient myself. Today marks the beginning of that pivot.
+
+I’ve officially launched my new professional GitHub portfolio: [`learning-journal`](https://github.com/your-username/learning-journal). It’s more than a repository; it’s a structured, ongoing record of my continued learning, skills development, and project work as I work toward a long-term goal: contributing meaningfully to the fields of artificial intelligence and robotics, with a focus on exploration technologies.
+
+---
+
+## Why This Now?
+
+Life changed dramatically when I became the legal guardian of my younger sisters. That shift came with real responsibilities — financial, emotional, and practical — and it meant shelving my original academic plan to pursue a master’s and PhD immediately after undergrad.
+
+But that dream hasn’t disappeared.
+
+If anything, the urgency to keep growing — to continue learning, to create, to contribute — has only grown. This journal is my way of making space for that again, on my own terms, and with full transparency.
+
+---
+
+## Repository Structure
+
+To ensure this stays well-organized and useful, I’ve structured the repo as follows:
+
+
+learning-journal/
+│
+├── projects/ # Practice exercises, learning tasks, experimental builds
+├── resources/ # Research papers, notes, and curated reading
+├── showcase/ # Portfolio-ready demos and completed smaller projects
+├── tools-scripts/ # Automation scripts and utility tools
+├── archive/ # Retired or legacy work for reference
+├── LICENSE
+└── README.md
+
+
+---
+
+## 🐜 Capstone Project: Dissertation Reimagined
+
+As the highlight of this journey, I’ll be reworking and completing my undergrad dissertation — a project on **swarm robotics and ant-inspired terrain mapping**, previously left unfinished.
+
+This will be a technical and personal milestone: part redemption arc, part passion project, and a deep dive into AI-driven exploration strategies.
+
+---
+
+## Timeline
+
+| Phase | Goals | Dates |
+|-------|-------|-------|
+| 🔧 Rebuild Foundations | Core concepts, algorithms, version control | Jul–Aug 2025 |
+| 🧠 Expand & Apply | Project work, weekly logs, portfolio building | Aug–Feb 2026 |
+| 📝 MSc Application | Apply to MSc AI @ Edinburgh | Mar 2026 |
+| 🎓 Postgrad Studies | Complete MSc (part-time, online) | 2026–2028 |
+
+---
+
+## Focus Areas
+
+- Algorithm design & data structures  
+- Python for AI and ML  
+- Robotics simulation & control systems  
+- Exploratory data analysis  
+- Geospatial/mapping tools (GIS)  
+- Swarm behavior & decentralized systems
+
+---
+
+## What’s Next?
+
+Over the next few weeks:
+
+- Uploading initial projects & past coursework
+- Creating mini-series tutorials or walkthroughs
+- Publishing regular learning journal entries
+- Designing a visual "skill tree" to map my growth
+
+---
+
+## Final Thoughts
+
+This repo is more than a portfolio — it’s a commitment. To myself, to my future, and to the kind of technologist I want to become.
+
+If you’re working on something similar or have ideas to share, feel free to connect. I’d love to learn alongside others navigating non-linear tech journeys.
+
+> *Let’s keep building. Let’s keep learning.* 🚀
+
+— Cora
+
+---
